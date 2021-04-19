@@ -1,0 +1,23 @@
+{
+  "name": "platforms-hw-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barsich/platforms-hw-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barsich/platforms-hw-lib/issues"
+  },
+  "homepage": "https://github.com/barsich/platforms-hw-lib#readme",
+  "dependencies": {
+    "@barsich/platforms-hw": "^1.0.0"
+  }
+}
