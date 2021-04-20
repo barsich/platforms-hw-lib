@@ -1,3 +1,3 @@
-const ajs = require('@barsich/platforms-hw');
+const ajs = require('@barsich/platformshw');
 
 console.log(ajs.info());

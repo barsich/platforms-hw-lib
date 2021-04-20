@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/barsich/platforms-hw-lib#readme",
   "dependencies": {
-    "@barsich/platforms-hw": "^1.0.0"
+    "@barsich/platformshw": "^1.0.1"
   }
 }
